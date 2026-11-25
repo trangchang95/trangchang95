@@ -10,9 +10,9 @@ A synthetic-data RACF-style report parser in Python (planned, no real data invol
 
 A z/OS security cheat sheet in plain words (planned).
 
-An LLM inference benchmark notebook comparing precision levels (planned).
+A small comparison of one model at bf16, 8-bit and 4-bit with MLX on a Mac: [mlx-quant-bench](https://github.com/trangchang95/mlx-quant-bench) (done, with a results dataset on [Hugging Face](https://huggingface.co/datasets/trangchang/mlx-quant-bench-results)).
 
-I will add each one here when it is public.
+I will add the others here when they are public.
 
 ### Topics I write about
 
